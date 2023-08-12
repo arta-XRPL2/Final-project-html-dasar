@@ -1,0 +1,17 @@
+body{
+    background-color: lightskyblue;
+}
+.wrap{
+    width: 40%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightskyblue;
+}
+.container{
+    padding: 5px;
+}
+table td{
+    padding: 5px;
+}
